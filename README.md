@@ -24,7 +24,7 @@ Do izražaja su došle prednosti **DECENTRALIZACIJE**, pogotovo u početnom peri
 
 Nažalost mnoge postojeće stranke opozicije su kombinacija raštrkanosti, zbunjenosti, nesposobnosti, potkupljenosti, istrošenosti, itd (čast izuzecima). A i većina opozicionih političara ne uleva dovoljno poverenja niti ima puno kredibiliteta, previše su već izlizani.
 
-Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). Nekoliko novinskih portala je iznelo dobru analizu situacije uz konstataciju da bi pokret mogao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
+Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). Na dva nezavisna novinska portala je iznenesa dobra analiza situacije uz konstataciju da bi pokret mogao i trebao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
 
 **– P2 –**  
 Studenti su po definiciji omladina na kojoj svet ostaje a istovremeno budući akademski građani društva. Kao nosioci promena, dosadašnjim akcijama su dali i više nego se moglo očekivati, uložili veliki trud i napor. A kad su već bili spremni dati fakultetsku godinu, treba onda napraviti i zadnji korak prema potencijalnom razrešenju situacije na konstruktivan način.
@@ -104,6 +104,7 @@ Ekonomske tačke se mogu ugrubo svesti na:
 - Raditi na eliminisanju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
 - Zaduživanje da bude dozvoljeno samo za kapitalne investicije i ulaganje u javnu infrastrukturu
 - Uvesti progresivniji model oporezivanja dobiti i isplate dividende. Npr firme preko milion eura godišnje dobiti da imaju nešto veću marginalnu stopu, a smanjiti poreze za male preduzetnike.
+- Razmotriti negativni porez na prihode kao efikasniji način doprinosa za nezaposlenost koji ipak motiviše ljude da počnu raditi
 - Napraviti Fond za Razvoj odakle bi se davali podsticaj za razvoj privrede u vidu: jednokratnih i nepovratnih sredstava za osnivanje novog biznisa i startup-a(po državljaninu uz obavezan i smislen biznis model), beskamatnih pozajmica za povećanje efikasnosti firme, i sa niskim kamatama uz grejs period za ulaganja u širenje poslovanja.
 - Povećati subvencionisanje kredita za prvu nekretninu za mlade bračne parove
 
@@ -114,7 +115,7 @@ Za kraj dodati kako treba uvek i svugde redovno **naglašavati**: Svrha svih jav
 **– P9 –**  
 Voleo bi da čujem mišljenja ostalih o ovoj ideji i povratnu korespodenciju.
 
-Možete slobodno ovaj Dopis i link proslediti prijateljima, kolegama, studentima, profesorima, novinarima, aktivistima i ostalima.
+Možete slobodno ovaj Otvoreni Dopis i link proslediti prijateljima, kolegama, studentima, profesorima, novinarima, aktivistima i ostalima.
 
 Živite dugo i uspešno!
 

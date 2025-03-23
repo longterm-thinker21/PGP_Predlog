@@ -49,7 +49,7 @@ Iz Liste **Delegata** bi se birali 3 do 6 (zavisno od veličine opštine) osoba 
 Eventualno bi se mogle formirati po opštini i dodatno grupe od 5 ili 10 starijih akademskih građana preko 60 godina. Oni bi činili jedno savetodavno veće, kao neki senat (radi iskustva), mada ovo i nije toliko neophodno, neka bude opcionalno. Pri tome, posvećeni profesori bi mogli pružiti diskretno mentorstvo studentskim grupama.
 
 **– P4 –**  
-Korisno je napraviti online Forum (plus *GoogleForms*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge. Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija. Sve da bude javno uz određeni broj moderatora koji bi filtrirali predloge i određivali status Zadataka ('*Issues*'). Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages).
+Korisno je napraviti online Forum (plus *GoogleForms*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge. Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija. Sve da bude javno uz određeni broj moderatora koji bi obrađivali predloge i određivali status Zadataka ('*Issues*') na osnovu aktivnosti, podrške, glasanja i doprinosa. Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages).
 
 Da to bude kao neki novi političko-građanski pokret/projekat baziran na modernim i donekle progresivnim načelima. Plan ne treba skrivati već naprotiv sama transparentnost da bude zaštita. Slično kao što se kod kriptografije ne krije algoritam koji je javan, već samo privatna lozinka, a poruka opet bude sigurna i autentična.
 
@@ -72,11 +72,11 @@ Vlada bi u velikoj meri bila **ekspertska**, na način da pola ministara bude od
 NAPOMENA: Ako se već sada napravi neka prelazna vlada, ne škodi, ali to ne menja posebno izneseni plan.
 
 **– P7 –**  
-Svi Delegati bi dali javno obećanje (snimiti izjave) da će eventualni specifičan mandat držati do 2 godine, umesto redovnih četiri, tj da će već u 2027. godini biti raspisani novi standardni parlamentarni izbori. Na neki način ovo bi bila privremena i prelazna re-ogranizacija državne uprave.
+Svi Predstavnici bi dali javnu i potpisanu izjavu (snimiti izjave) da će eventualni specifičan mandat držati do 2 godine, umesto redovnih četiri, tj da će već u 2027. godini biti raspisani novi standardni parlamentarni izbori. Na neki način ovo bi bila privremena i prelazna re-ogranizacija državne uprave.
 
 Nakon toga ako se pokret ne bi rasformirao onda bi mogao transformisati u regularnu političku partiju shodno većinskom mišljenju. Mnogi bi se vjerovatno povukli (uradili su svoj dio posla), oni koji žele bi mogli ostati a treći napustili, pošto verovatno neće svi biti skroz iste političke misli. Ipak mogla bi se u dobroj meri zadržati decentralizovana struktura organizacije koliko bude praktično.
 
-Do tada ima dovoljno vremena da se neke stvari poslože u državi, politički život reformiše a novi ljudi i budući lideri isprofilišu. Takođe da se Program proširi (u nekim stvarima  i pojednostavi), koncept detaljnije razradi i pokret preciznije usmeri. Generalno time bi se uspostavio viši standard za politički angažman, i za sadašnje a i buduće partije. Da to bude kao neko svetlo na kraju tunela izlaz iz demokratskog mraka, otklon od medijske mašine i prašine.
+Do tada ima dovoljno vremena da se neke stvari poslože u državi, politički život reformiše a novi ljudi i budući lideri isprofilišu. Takođe da se Program proširi (u nekim stvarima  i pojednostavi), koncept detaljnije razradi i pokret preciznije usmeri. Generalno time bi se uspostavio viši standard za politički angažman, i za sadašnje a i buduće partije. Da to bude kao neko svetlo na kraju tunela izlaz iz političkog sumraka, otklon od medijske mašine i prašine.
 
 **– P8 –**  
 Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi političkog spektra) optimalno bi bila neka Sredina. Kao prvo **politički Centar** predstavlja i filozofski zlatnu sredinu, a drugo može skupiti najveću podršku zbog svoje širine. Ovo je taktika koju i sama vlast donekle primenjuje samo to rade na pogrešan način (površno i populistički) i sa lošom namjerom (želja za moći). Ipak ništa ne sprečava da se ta strategija upotrebi i na dobar način za benefit svih stanovnika.
@@ -90,21 +90,21 @@ Shodno tome nekoliko teza:
 - Razvoj snažnijeg sistema za nadzor i kontrolu zapošljavanja i pravila konkursa 
 - Veći nivo transparentnosti javnih nabavki uz redovne revizije bez najave
 - Uspostavljanje novih pravila rada i poslovanja javnih preduzeća uz veći nivo transparetnosti i interne i eksterne(javne) kontrole - 'Checks and Balances'
-- Smanjene suvišne birokratije, pojednostavljenje procedura i povećanje efikasnsti javne uprave
+- Postepeno smanjene suvišne birokratije, pojednostavljenje procedura i povećanje efikasnosti javne uprave
 
 U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema:  
 - EU - nastaviti bržim tempom sa evropskim standardima, stvari koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija
-- Rusija - s obzrim da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti
-- Kosovo - ostati pri poziciji ne priznavanja formalne nezavisnosti ali težiti boljim odnosima u praksi i saradnji u regiji (bez širenja mržnje, netrpeljivosti i huškanja)
-- RS - Držati se načela podrške za Republiku Srpku kao autonomnog entiteta unutar dejtonske BIH
-- 
+- Rusija - s obzrim da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti bez sankcija
+- Kosovo - ostati pri poziciji ne priznavanja nezavisnosti ali težiti boljim odnosima u praksi i saradnji u regiji (bez širenja mržnje, netrpeljivosti i huškanja)
+- RS - kontinualno podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 
+
 Ekonomske tačke se mogu ugrubo svesti na:  
-- Umerena varijanta ekonomskog konzervativizma (socijalno-liberana verzija)
+- Umereno liberalni ekonomski konzervativizam (socijalno-demokratska verzija)
 - Staviti fokus na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
 - Raditi na eliminisanju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
 - Zaduživanje da bude dozvoljeno samo za kapitalne investicije i ulaganje u javnu infrastrukturu
 - Uvesti progresivniji model oporezivanja dobiti i isplate dividende. Npr firme preko milion eura godišnje dobiti da imaju nešto veću marginalnu stopu, a smanjiti poreze za male preduzetnike.
-- Razmotriti negativni porez na prihode kao efikasniji način doprinosa za nezaposlenost koji ipak motiviše ljude da počnu raditi
+- Razmotriti negativni porez na prihode kao efikasniji način doprinosa za nezaposlenost koji ipak motiviše ljude da rade više
 - Napraviti Fond za Razvoj odakle bi se davali podsticaj za razvoj privrede u vidu: jednokratnih i nepovratnih sredstava za osnivanje novog biznisa i startup-a(po državljaninu uz obavezan i smislen biznis model), beskamatnih pozajmica za povećanje efikasnosti firme, i sa niskim kamatama uz grejs period za ulaganja u širenje poslovanja.
 - Povećati subvencionisanje kredita za prvu nekretninu za mlade bračne parove
 

@@ -99,7 +99,7 @@ U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema:
 - RS - kontinualno podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 
 
 Ekonomske tačke se mogu ugrubo svesti na:  
-- Umereno liberalni ekonomski konzervativizam (socijalno-demokratska verzija)
+- Umereno liberalni i klasični ekonomski konzervativizam (socijalno-demokratska verzija)
 - Staviti fokus na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
 - Raditi na eliminisanju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
 - Zaduživanje da bude dozvoljeno samo za kapitalne investicije i ulaganje u javnu infrastrukturu

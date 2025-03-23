@@ -32,7 +32,7 @@ Studenti su po definiciji omladina na kojoj svet ostaje a istovremeno budući ak
 Prelaz iz '*Studenti u Blokadi* (fakulteta)' u '*Studenti u Deblokadi* (društva)' - preuzeti kormilo radi resetovanja i popravke Sistema. Analogno i ostali građani bi se trebali solidarisati i biti spremni istrpeti eventualne zastoje i nelagodnosti određeni period.
 
 **– P3 –**  
-- Načelna ideja je sledeća:
+** Načelna ideja je sledeća:
 
 Prvo oformiti Opštinske Studentske Plenume (**OSP**) po opštinama (174 jedinice) koje bi činili studenti iz opština iz kojih dolaze i koji se prijave za učešce. Od 200 000 studenata u Srbiji, broj aktivnih (**Aktivisti** koji se prijave) bi trebao biti oko 5%, znači ~ 10 000. Većina opština ima između 10 K i 100 K ljudi, jedino beogradske opštine imaju i više, do 200 K.
 

@@ -67,7 +67,7 @@ Ako se nakon izbora uspe skupiti odgovarajuća većina za novu Vladu, od aktueln
 
 Vlada bi u velikoj meri bila **ekspertska**, na način da pola ministara bude odabrano iz grupe poslanika, a za drugu polovinu ministarstava mandate dati poznatim stručnjacima iz adekvatnih profesija.
 
-* Akcija možda izgleda nestandardno ali je u potpunosti u skladu sa zakonskom regulativom.
+*Akcija možda izgleda nestandardno ali je u potpunosti u skladu sa zakonskom regulativom.
 
 NAPOMENA: Ako se već sada napravi neka prelazna vlada, ne škodi, ali to ne menja posebno izneseni plan.
 

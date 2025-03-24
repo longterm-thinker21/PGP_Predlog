@@ -24,7 +24,7 @@ Do izražaja su došle prednosti **DECENTRALIZACIJE**, pogotovo u početnom peri
 
 Nažalost mnoge postojeće stranke opozicije su kombinacija raštrkanosti, zbunjenosti, nesposobnosti, potkupljenosti, istrošenosti, itd (čast izuzecima). A i većina opozicionih političara ne uliva dovoljno poverenja niti ima puno kredibiliteta, previše su već izlizani.
 
-Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). Na dva nezavisna novinska portala je iznenesa dobra analiza situacije uz konstataciju da bi pokret mogao i trebao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
+Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). NA par nezavisnih novinskih portala je iznenesa solidna analiza situacije uz konstataciju da bi pokret mogao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
 
 **– P2 –**  
 Studenti su po definiciji omladina na kojoj svet ostaje a istovremeno budući akademski građani društva. Kao nosioci promena, dosadašnjim akcijama su dali i više nego se moglo očekivati, uložili veliki trud i napor. A kad su već bili spremni dati fakultetsku godinu, treba onda napraviti i zadnji korak prema potencijalnom razrešenju situacije na konstruktivan način.
@@ -34,11 +34,11 @@ Prelaz iz '*Studenti u Blokadi* (fakulteta)' u '*Studenti u Deblokadi* (društva
 **– P3 –**  
 ** Načelna ideja je sledeća:
 
-Prvo oformiti Opštinske Studentske Plenume (**OSP**) po opštinama (174 jedinice) koje bi činili studenti iz opština iz kojih dolaze i koji se prijave za učešce. Od 200 000 studenata u Srbiji, broj aktivnih (**Aktivisti** koji se prijave) bi trebao biti oko 5%, znači ~ 10 000. Većina opština ima između 10 K i 100 K ljudi, jedino beogradske opštine imaju i više, do 200 K.
+Prvo oformiti Opštinske Studentske Plenume (**OSP**) po opštinama (174 jedinice) koje bi činili studenti iz opština iz kojih dolaze i koji se prijave za učešće. Od 200 000 studenata u Srbiji, broj aktivnih (**Aktivisti** koji se prijave) bi trebao biti oko 5%, znači ~ 10 000. Većina opština ima između 10 K i 100 K ljudi, jedino beogradske opštine imaju i više, do 200 K.
 
-Zavisno od veličine opštine, grupe OSPa treba da čine 30, 60, ili 100 članova. Zatim da oni među sobom proberu po **15** osoba koje bi činile **Studentski Odbor** a primali sugestije od cele grupe koji bi pružala podršku i potrebnu logistiku.
+Zavisno od veličine opštine, grupe OSPa mogli bi da čine 30, 60, ili 100 članova. Zatim da oni među sobom proberu po **15** osoba koje bi činile **Studentski Odbor** a primali sugestije od cele grupe koji bi pružala podršku i potrebnu logistiku.
 
-Naredni korak bi bio da se skupe **Nominacije** za političke **Delegate** među stanovnicima opština. Svi studenti a i ostali građani bi mogli nominovati **časne sugrađane**, istaknute komšije, iskusne nastavnike i profesore, viđenije domaćine i uspešne preduzetnike iz svojih lokalnih zajednica. Uslov bi bio da nisu članovi političkih partija, niti da su to bili u zadnjih 5 godina (presek na 01.01.2020.), i da su između 22 i 68 godina starosti - nova lica sa dozom iskustva ali i snage. Vreme je i red da sposobni i inteligentni pojedinci daju svoj doprinos društvu, da naprave iskorak i istupe sa pozadinske klupe. Okupiti **verodostojnu inteligenciju** i sabrati zdravorazumsku pamet. Oni koji prihvate nominacije bi ušli u preliminarni spisak kandidata. Pri tome bi trebali spremiti svoju **Biografiju** i snimak kratke video izjave za objavu.
+Naredni korak bi bio da se skupe **Nominacije** za političke **Delegate** među stanovnicima opština. Svi studenti a i ostali građani bi mogli nominovati **časne sugrađane**, istaknute komšije, iskusne nastavnike i profesore, viđenije domaćine i uspešne preduzetnike iz svojih lokalnih zajednica. Uslov bi bio da nisu članovi političkih partija, niti da su to bili u zadnjih 5 godina (presek na 01.01.2020.), i da su između 22 i 68 godina starosti - nova lica sa dozom iskustva ali i snage. Vreme je i red da sposobni i inteligentni pojedinci daju svoj doprinos društvu, da naprave iskorak i istupe sa pozadinske klupe. Okupiti **verodostojnu inteligenciju** i sabrati zdravorazumsku pamet. Oni koji prihvate nominacije bi ušli u preliminarni spisak kandidata. Pri tome bi se trebala spremiti **Biografija** i snimak kratke video izjave za objavu.
 
 Zatim bi **Studentski Odbor** (ovih 15 članova) održao javne rasprave o kandidatima. Onda bi kao porota većali i glasali uz bodovno rangiranje delegata od 15 do 1, pa bi prvih 15 ušlo u **Građansku Listu**. Odbor i Lista bi imali Presedavajućeg člana i Sekretara uz rotiranje na svaka 3 meseca kada prethodni Sekretar postaje Presedavajući a bira se novi sekretar. Time se dobija federativni model upravljanja odnosno služenje javnosti i javnom dobru uz brigu o svim slojevima društva.
 
@@ -49,7 +49,7 @@ Iz Liste **Delegata** bi se birali 3 do 6 (zavisno od veličine opštine) osoba 
 Eventualno bi se mogle formirati po opštini i dodatno grupe od 5 ili 10 starijih akademskih građana preko 60 godina. Oni bi činili jedno savetodavno veće, kao neki senat (radi iskustva), mada ovo i nije toliko neophodno, neka bude opcionalno. Pri tome, posvećeni profesori bi mogli pružiti diskretno mentorstvo studentskim grupama.
 
 **– P4 –**  
-Korisno je napraviti online Forum (plus *GoogleForms*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge. Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija. Sve da bude javno uz određeni broj moderatora koji bi obrađivali predloge i određivali status Zadataka ('*Issues*') na osnovu aktivnosti, podrške, glasanja i doprinosa. Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages).
+Korisno je napraviti online Forum (plus *GoogleForms*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge (direktnija demokratija uz veći nivo participacije). Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija. Sve da bude javno uz određeni broj moderatora koji bi obrađivali predloge i određivali status Zadataka ('*Issues*') na osnovu aktivnosti, podrške, glasanja i doprinosa. Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages).
 
 Da to bude kao neki novi političko-građanski pokret/projekat baziran na modernim i donekle progresivnim načelima. Plan ne treba skrivati već naprotiv sama transparentnost da bude zaštita. Slično kao što se kod kriptografije ne krije algoritam koji je javan, već samo privatna lozinka, a poruka opet bude sigurna i autentična.
 
@@ -59,7 +59,7 @@ Suština bi bila na **Distribuiranosti** i na **Odozdo-ka-Gore** ('*Bottoms-Up*'
 Medijski objaviti proglas osnivanja i redovno izveštavati o napretku i dešavanjima (imati redovni feed na društvenim mrežama). Znači iskoristiti institucije u svoju korist i na legalan način promeniti nelegitiman sistem koji je stavio šape na sve pore društva i koči napredak.
 
 **– P6 –**  
-Nadalje, javno zahtevati od vlasti raspisivanje vanrednih izbora (i lokalnih i republičkih) za decembar 2025 (ni prerano niti prekasno, taman i prethodni bili u decembru 2023). Alternativno, izvodljivo je i ako bi bili u septembru. Dok za jun, što je režim predlagao, je prerano da se sve stigne posložiti. Uglavnom ako bi se krenulo u ovom smeru već od početka aprila treba dati pun gas na realizaciji ove Inicijative.
+Nadalje, javno zahtevati od vlasti raspisivanje vanrednih izbora (i lokalnih i republičkih) za decembar 2025 (ni prerano niti prekasno, taman i prethodni bili u decembru 2023). Alternativno, izvodljivo je i ako bi bili u septembru. Dok za jun, što je režim predlagao, je prerano da se sve stigne posložiti. Uglavnom ako bi se krenulo u ovom smeru već od početka aprila treba dati pun gas na realizaciji ove Inicijative. Paralelno održavati redovna mjesečna okupljanja u centru gradova da se zadrži energija i fokus javnosti.
 
 Takođe od postojećih opozicionih stranaka pre izbora tražiti javno (Glasno i Jasno) obećanje da će podržati **Građanski Pokret**. I to na način da ako njihovi glasovi budu potrebni za većinu za formiranje Vlade da će biti spremni glasati za istu sve i ako ne uđu u nju iz bilo kojih razloga, bilo tehničkih ili ideoloških (efektivno unapred uplanirati potencijalno manjinsku vladu). Oni koji to ne prihvate se indirektno sami etiketiraju kao lažna opozicija, pa neka vide kako će proći na izborima.
 
@@ -83,7 +83,9 @@ Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi pol
 
 Pošto je Srbija i dalje prilično podeljeno društvo oko nekih bitnih stvari treba biti oprezan i imati takta za stavove i levice i desnice, umerene naravno. Suština ovog Pokreta je prvenstveno na Unutrašnjem planu, u Ino-politici ne treba previše odstupati od dosadašnjeg kursa da se ne pravi odmah nova komplikacija. U ovom trenutku za time nema potrebe niti je pravo vreme za naglu promenu strateških odluka, ostati u tradicionalnom okviru. A sa druge strane neophodno je definisati određenu osnovu platforme, jer mora postojati neki minimum zajedništva. Takođe ako bi uskoro nastala potreba da se donose odluke vezano za te teme bitno da postoje neke okvirne smernice. Srpski ‘zoon politikon’ je i dalje egzotično društevno biće.
 
-Shodno tome nekoliko teza:
+Shodno tome nekoliko teza:  
+(stavke u nastavku predstavljaju i lične stavove pa ih uzeti uz dozu rezerve;  
+odnosno pregledati i razmotriti ih pre eventualnog usvajanja, ali mogu biti osnova za odakle početi)
 
 Što se tiče domaće scene i administrativnog aspekta:  
 - Jači i aktivniji rad na borbi protiv korupcije (sajt za anonimne prijave, strožije kazne)
@@ -91,14 +93,15 @@ Shodno tome nekoliko teza:
 - Veći nivo transparentnosti javnih nabavki uz redovne revizije bez najave
 - Uspostavljanje novih pravila rada i poslovanja javnih preduzeća uz veći nivo transparetnosti i interne i eksterne(javne) kontrole - 'Checks and Balances'
 - Postepeno smanjene suvišne birokratije, pojednostavljenje procedura i povećanje efikasnosti javne uprave
+- Jačanje i unapređenje socijalnih sistema i institucija od javnog interesa i društvenog značaja
 
-U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema:  
+U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema (naravno tačke potrebno prvo izglasati da bi bile dio programske platforme):  
 - EU - nastaviti bržim tempom sa evropskim standardima, stvari koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija (bez ulaska u NATO)
-- Rusija - s obzrim da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti bez sankcija
+- Rusija - s obzirom da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti bez sankcija
 - Kosovo - ostati pri poziciji ne priznavanja nezavisnosti ali težiti boljim odnosima u praksi i saradnji u regiji (bez širenja mržnje, netrpeljivosti i huškanja)
-- RS - kontinualno podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 
+- RS - podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 
 
-Ekonomske tačke se mogu ugrubo svesti na:  
+Ekonomske tačke se mogu ugrubo svesti na (subjektivna preporuka, ima prosta za revidiranje i izmjene/dorade):  
 - Umereno liberalni i klasični ekonomski konzervativizam (socijalno-demokratska verzija)
 - Staviti fokus na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
 - Raditi na eliminisanju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa

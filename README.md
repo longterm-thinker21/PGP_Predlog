@@ -93,7 +93,7 @@ Shodno tome nekoliko teza:
 - Postepeno smanjene suvišne birokratije, pojednostavljenje procedura i povećanje efikasnosti javne uprave
 
 U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema:  
-- EU - nastaviti bržim tempom sa evropskim standardima, stvari koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija
+- EU - nastaviti bržim tempom sa evropskim standardima, stvari koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija (bez ulaska u NATO)
 - Rusija - s obzrim da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti bez sankcija
 - Kosovo - ostati pri poziciji ne priznavanja nezavisnosti ali težiti boljim odnosima u praksi i saradnji u regiji (bez širenja mržnje, netrpeljivosti i huškanja)
 - RS - kontinualno podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 

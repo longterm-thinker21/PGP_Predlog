@@ -106,7 +106,7 @@ U kontekstu nacionalnih interesa tu bi se mogli izdvojiti odnosi prema:
 Ekonomske tačke se mogu ugrubo svesti na  
 (subjektivna preporuka, ima prosta za revidiranje i izmene/dorade):  
 - Umereno liberalni i klasični ekonomski konzervativizam (socijalno-demokratska verzija)
-- Staviti pažnju na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
+- Staviti pažnju na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga (bitna stabilnosti i dugoročna održivost)
 - Raditi na smanjenju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
 - Zaduživanje da bude dozvoljeno samo za kapitalne investicije i ulaganje u javnu infrastrukturu
 - Uvesti progresivniji model oporezivanja dobiti i isplate dividende. Npr firme preko milion eura godišnje dobiti da imaju nešto veću marginalnu stopu, a smanjiti poreze za male preduzetnike.

@@ -24,7 +24,7 @@ Do izražaja su došle prednosti **DECENTRALIZACIJE**, pogotovo u početnom peri
 
 Nažalost mnoge postojeće stranke opozicije su kombinacija raštrkanosti, zbunjenosti, nesposobnosti, potkupljenosti, istrošenosti, itd (čast izuzecima). A i većina opozicionih političara ne uliva dovoljno poverenja niti ima puno kredibiliteta, previše su već izlizani.
 
-Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). NA par nezavisnih novinskih portala je iznenesa solidna analiza situacije uz konstataciju da bi pokret mogao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
+Zbog toga, ako se želi upotrebiti ovaj momentum (impuls sile), bilo bi poželjno, čak i potrebno, iskoristiti aktuelni trenutak za aktivnije političko delovanje (politička artikulacija). Na par nezavisnih novinskih portala je iznenesa solidna analiza situacije uz konstataciju da bi pokret mogao da izrodi jednu novu građansku platformu. Znači usmeriti i fokusirati potencijalnu energiju u konkretan akcioni plan, i preći u ofanzivu na političkom frontu - društveni revolt i preporod iz bunta. Ali ne u vidu klasične partije već kao široki pokret i građansko Udruženje sa specifičnim ciljevima i na određen rok, a uz adekvatan **Statut**.
 
 **– P2 –**  
 Studenti su po definiciji omladina na kojoj svet ostaje a istovremeno budući akademski građani društva. Kao nosioci promena, dosadašnjim akcijama su dali i više nego se moglo očekivati, uložili veliki trud i napor. A kad su već bili spremni dati fakultetsku godinu, treba onda napraviti i zadnji korak prema potencijalnom razrešenju situacije na konstruktivan način.
@@ -50,14 +50,14 @@ Druga opcija bi bilo da se ide direktno na građanske Zborove, kako se počelo o
 Eventualno bi se mogle formirati po opštini i dodatno grupe od 5 ili 10 starijih akademskih građana preko 60 godina. Oni bi činili jedno savetodavno veće, kao neki senat (radi iskustva), mada ovo i nije toliko neophodno, neka bude opcionalno. Pri tome, posvećeni profesori bi mogli pružiti diskretno mentorstvo studentskim grupama.
 
 **– P4 –**  
-Korisno je napraviti online Forum (plus *Google Forms i Sheets*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge (direktnija demokratija uz veći nivo participacije). Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija, uz odličnu istoriju pregleda promena. Sve da bude javno uz određeni broj moderatora koji bi obrađivali predloge i određivali status Zadataka ('*Issues*') na osnovu aktivnosti, podrške, glasanja i doprinosa. Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages).
+Korisno je napraviti online Forum (plus *Google Forms i Sheets*) gde bi i ostali studenti a i građani imali priliku iznositi ideje i predloge (direktnija demokratija uz veći nivo participacije). Studenti ITa ili tehnički vični ('*tech-savvy*') pojedinci bi mogli napraviti '**GitHub**' repozitorijum za **PGP Projekat**. Tu bi bio kao Otvoreni Kod političkog udruženja (*Političko_Programiranje*) radi lakšeg usaglašavanja, efikasnije saradnje i organizacije informacija, uz odličnu istoriju pregleda promena. Sve da bude javno uz određeni broj moderatora koji bi obrađivali predloge i određivali status Zadataka ('*Issues*') na osnovu aktivnosti, podrške, glasanja i doprinosa. Sadržaj političkog programa i agende da se izloži na *GitDocs* ('*markdown*' dokumenti) - **Digitalni Manifest**, kao i plan rada u vidu mape puta ('**RoadMap**'). Zatim bi se mogao uzeti odgovarajući domen i napraviti web sajt (hosting isto Git Pages zbog bolje integracije).
 
 Da to bude kao neki novi političko-građanski pokret/projekat baziran na modernim i donekle progresivnim načelima. Plan ne treba skrivati već naprotiv sama transparentnost da bude zaštita. Slično kao što se kod kriptografije ne krije algoritam koji je javan, već samo privatna lozinka, a poruka opet bude sigurna i autentična.
 
 **– P5 –**  
 Suština bi bila na **Distribuiranosti** i na **Odozdo-ka-Gore** ('*Bottoms-Up*') pristupu organizovanja (veći nivo demokratičnosti). Takođe u tom smislu važan segment bi bila **digitalizacija** organizovanja i koordinacije delovanja. Upotrebiti kvalitetne platforme za javnu razmenu ideja, diskusija, kritičku analizu diskursa, online glasanje itd. Chat aplikacije Telegram i Signal mogu biti od koristi, u kombinaciji privatnih grupa i javnih kanala. Za šire grupe Viber je najpraktičniji jer ga već koristi najviše ljudi. Bio bi potreban i određen rad na terenu da svako iskoristi kontakte i poznanstva, širenje reči od usta do usta. Tu bi bilo dosta logistike i operativnog posla koje treba izneti. Dosta ljudi nije detaljno upućena u sve online platforma tako da će trebati voditi zapisnik sa okupljanja uživo pa sažetak evidentirati u informacioni sistem, bilo da bude sam Git u nekoj mjeri ili nešto drugo.
 
-Medijski objaviti proglas osnivanja i redovno izveštavati o napretku i dešavanjima (imati redovni feed na društvenim mrežama). Znači iskoristiti institucije u svoju korist i na legalan način promeniti nelegitiman sistem koji je stavio šape na sve pore društva i koči napredak.
+Medijski objaviti proglas osnivanja i svakodnevno izveštavati o napretku i dešavanjima (imati redovni feed na društvenim mrežama). Znači iskoristiti institucije u svoju korist i na legalan način promeniti nelegitiman sistem koji je stavio šape na sve pore društva i koči napredak.
 
 **– P6 –**  
 Nadalje, javno zahtevati od vlasti raspisivanje vanrednih izbora (i lokalnih i republičkih) za decembar 2025 (ni prerano niti prekasno, taman i prethodni bili u decembru 2023). Alternativno, izvodljivo je i ako bi bili u septembru. Dok za jun, što je režim predlagao, je prerano da se sve stigne posložiti. Uglavnom ako bi se krenulo u ovom smeru već od početka aprila treba dati pun gas na realizaciji ove Inicijative. Paralelno održavati redovna mjesečna okupljanja u centru gradova da se zadrži energija i fokus javnosti.
@@ -80,7 +80,7 @@ Nakon toga ako se pokret ne bi rasformirao onda bi mogao transformisati u regula
 Do tada ima dovoljno vremena da se neke stvari poslože u državi, politički život reformiše a novi ljudi i budući lideri isprofilišu. Takođe da se Program proširi (u nekim stvarima  i pojednostavi), koncept detaljnije razradi i pokret preciznije usmeri. Generalno time bi se uspostavio viši standard za politički angažman, i za sadašnje a i buduće partije. Da to bude kao neko svetlo na kraju tunela izlaz iz političkog sumraka, otklon od medijske mašine i prašine.
 
 **– P8 –**  
-Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi političkog spektra) optimalno bi bila neka Sredina. Kao prvo **politički Centar** predstavlja i filozofski zlatnu sredinu, a drugo može skupiti najveću podršku zbog svoje širine. Ovo je taktika koju i sama vlast donekle primenjuje samo to rade na pogrešan način (površno i populistički) i sa lošom namjerom (želja za moći). Ipak ništa ne sprečava da se ta strategija upotrebi i na dobar način za benefit svih stanovnika.
+Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi političkog spektra) optimalno bi bila neka Sredina. Kao prvo **politički Centar** predstavlja i filozofski zlatnu sredinu, a drugo može skupiti najveću podršku zbog svoje širine. Ovo je taktika koju i sama vlast donekle primenjuje samo se to radi na pogrešan način (površno i populistički) i sa lošom namjerom (želja za moći). Ipak ništa ne sprečava da se ta strategija upotrebi i na dobar način za benefit svih stanovnika.
 
 Pošto je Srbija i dalje prilično podeljeno društvo oko nekih bitnih stvari treba biti oprezan i imati takta za stavove i levice i desnice, umerene naravno. Suština ovog Pokreta je prvenstveno na Unutrašnjem planu, u Ino-politici ne treba previše odstupati od dosadašnjeg kursa da se ne pravi odmah nova komplikacija. U ovom trenutku za time nema potrebe niti je pravo vreme za naglu promenu strateških odluka, ostati u tradicionalnom okviru. A sa druge strane neophodno je definisati određenu osnovu platforme, jer mora postojati neki minimum zajedništva. Takođe ako bi uskoro nastala potreba da se donose odluke vezano za te teme bitno da postoje neke okvirne smernice. Srpski ‘zoon politikon’ je i dalje egzotično društevno biće.
 
@@ -96,16 +96,18 @@ odnosno pregledati i razmotriti ih pre eventualnog usvajanja, ali mogu biti osno
 - Postepeno smanjene suvišne birokratije, pojednostavljenje procedura i povećanje efikasnosti javne uprave
 - Jačanje i unapređenje socijalnih sistema i institucija od javnog interesa i društvenog značaja
 
-U kontekstu nacionalnih interesa tu bi mogli izdvojiti odnosi prema (naravno tačke potrebno prvo izglasati da bi bile dio programske platforme):  
-- EU - nastaviti bržim tempom sa evropskim standardima, stvari koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija (bez ulaska u NATO)
-- Rusija - s obzirom da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti bez sankcija
+U kontekstu nacionalnih interesa tu bi se mogli izdvojiti odnosi prema:  
+(naravno tačke potrebno prvo izglasati da bi bile dio programske platforme)  
+- EU - nastaviti bržim tempom sa evropskim standardima, uz fokus na stvarima koje su korisne i dobre za Srbiju sve i da ne postoji Evropska Unija (bez ulaska u NATO)
+- Rusija - s obzirom da se i sukob u Ukrajini približava kraju zadržati dozu neutralnosti i bez sankcija
 - Kosovo - ostati pri poziciji ne priznavanja nezavisnosti ali težiti boljim odnosima u praksi i saradnji u regiji (bez širenja mržnje, netrpeljivosti i huškanja)
-- RS - podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar dejtonske BIH 
+- RS - podržavati Republiku Srpsku kao autonomni entitet sa svojim ustavnim nadležnostima unutar BIH u skladu sa Dejtonom
 
-Ekonomske tačke se mogu ugrubo svesti na (subjektivna preporuka, ima prosta za revidiranje i izmjene/dorade):  
+Ekonomske tačke se mogu ugrubo svesti na  
+(subjektivna preporuka, ima prosta za revidiranje i izmene/dorade):  
 - Umereno liberalni i klasični ekonomski konzervativizam (socijalno-demokratska verzija)
-- Staviti fokus na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
-- Raditi na eliminisanju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
+- Staviti pažnju na fiskalnu disciplinu uz manji deficit i smanjenje Ino duga
+- Raditi na smanjenju zaduživanja i bez kredita za tekuću potrošnju i krpljenje budžetskih rupa
 - Zaduživanje da bude dozvoljeno samo za kapitalne investicije i ulaganje u javnu infrastrukturu
 - Uvesti progresivniji model oporezivanja dobiti i isplate dividende. Npr firme preko milion eura godišnje dobiti da imaju nešto veću marginalnu stopu, a smanjiti poreze za male preduzetnike.
 - Razmotriti negativni porez na prihode kao efikasniji način doprinosa za nezaposlenost koji ipak motiviše ljude da rade više
@@ -123,10 +125,11 @@ Možete slobodno ovaj Otvoreni Dopis i link proslediti prijateljima, kolegama, s
 
 Živite dugo i uspešno!
 
-Recimo da je ovo jedan **#IPP - Inženjerski_Pristup_Problemu** i pokušaj Rešenja (od strane kritički nastrojenog milenijalca - najveća generacijska grupa)
+Recimo da je ovo jedan **#IPP - Inženjerski_Pristup_Problemu** i pokušaj Rešenja  
+(od strane kritički nastrojenog milenijalca - trenutno najveća generacijska grupa)
 
 DOPUNA: sažetak konstruktivnih komentara ..
 ______
 
-Objavljeno: 2025-03-21 od strane: *longterm_thinker21* (analitičar za dugoročnu budućnost i 21. vek)  
+Objavljeno: 2025-03-21 od strane: *longterm-thinker21* (analitičar za dugoročnu budućnost i 21. vek)  
 U potpisu (enkriptovano): yGOSIil713lExCP0OMy5nw==

@@ -131,6 +131,6 @@ Recimo da je ovo jedan **#IPP - Inženjerski_Pristup_Problemu** i pokušaj Reše
 DOPUNA: sažetak konstruktivnih komentara ..
 ______
 
-URL Shortener: [bit.ly/pgp_predlog](bit.ly/pgp_predlog)
+URL Shortener: [bit.ly/pgp_predlog](bit.ly/pgp_predlog)  
 Objavljeno: 2025-03-21 od strane: *longterm-thinker21* (analitičar za dugoročnu budućnost i 21. vek)  
 U potpisu (enkriptovano): yGOSIil713lExCP0OMy5nw==

@@ -6,9 +6,9 @@
 Inače **PGP** je takođe skraćenica i za '*Pretty Good Privacy*' - Vrlo Dobra Privatnost, ali ostavimo to na stranu.
 
 **– PREDGOVOR -** (+ 9 Paragrafa/Pasusa)  
-Ni objave građevinskih Dokumenta, niti hapšenja Izvođača, kao ni prelazne Vlade, neće rešiti suštinu problema, mada svakako pomoći. A to je sam politički ambijent i manjak pravog pluralizma kod izbora. Pogotovo ako na narednim izborima, kad god da budu održani, se dobije sličan rezultat kao do sada. Sa jedne strane pomoću stranačke mašinerije, a drugim delom zbog nedostatka dobre alternative i kvalitetnih opcija.
+Ni objave građevinskih Dokumenta, niti hapšenja Izvođača, kao ni prelazne Vlade, neće rešiti suštinu problema, mada mogu svakako pomoći. A problem je sam politički ambijent i manjak pravog pluralizma kod izbora. Pogotovo ako na narednim izborima, kad god da budu održani, se dobije sličan rezultat kao do sada. Sa jedne strane pomoću stranačke mašinerije, a drugim delom zbog nedostatka dobre alternative i kvalitetnih opcija.
 
-Radi toga, trenutno akumuliranu energiju treba usmeriti u kreiranje konkretnog pokreta koji može izaći na izbore. Zamena Vlade nije dovoljna, treba krenuti od srži problematike, tj. Narodne Skupštine i (zamalo) narodnih stranaka. Zbog posebne situacije i donekle vanrednih okolnosti, sama ogranizacija a i delovanje treba biti vrlo specifično (detalji u nastavku).
+Radi toga, trenutno akumuliranu energiju treba usmeriti u kreiranje konkretnog pokreta koji može izaći na izbore. Zamena Vlade nije dovoljna, treba krenuti od srži problematike, tj. Narodne Skupštine i (zamalo) narodnih poslanika. Zbog posebne situacije i donekle vanrednih okolnosti, sama ogranizacija a i delovanje treba biti vrlo specifično (detalji u nastavku).
 
 Propagirati pozitivne principe i ideale:
 - umesto kulta vođe, praviti kulturu ideja i tražiti dobrog lidera (istorijski tu loše stojimo)
@@ -116,7 +116,7 @@ Ekonomske tačke se mogu ugrubo svesti na
 
 Zaključak: Držati se real-politike sa racionalnim stavom i uz razuman pristup. Za veće stvari ostati principijelan a za sitnije biti blagi pragmatik.
 
-Za kraj dodati kako treba uvek i svugde redovno **naglašavati**: Svrha svih javni službi u državi je da služe javnosti i društvu, znači oni su zaposlenici i radnici, sluge građana, a ne obrnuto. Političare finansiraju stanovnici iz poreza koje plaćaju i ako rade loše treba ih otpustiti sa pozicije tj. dati im otkaz sa funkcije, a naći bolje, i menjati ih redovno (jer moć kvari).
+Za kraj dodati kako treba uvek i svugde redovno **naglašavati**: Svrha svih javnih službi u državi je da služe javnosti i društvu, znači oni su zaposlenici i radnici, sluge građana, a ne obrnuto. Političare finansiraju stanovnici iz poreza koje plaćaju i ako rade loše treba ih otpustiti sa pozicije tj. dati im otkaz sa funkcije, a naći bolje, i menjati ih redovno (jer moć kvari).
 
 **– P9 –**  
 Voleo bi da čujem mišljenja ostalih o ovoj ideji i povratnu korespodenciju.

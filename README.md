@@ -80,7 +80,7 @@ Nakon toga ako se pokret ne bi rasformirao onda bi mogao transformisati u regula
 Do tada ima dovoljno vremena da se neke stvari poslože u državi, politički život reformiše a novi ljudi i budući lideri isprofilišu. Takođe da se Program proširi (u nekim stvarima  i pojednostavi), koncept detaljnije razradi i pokret preciznije usmeri. Generalno time bi se uspostavio viši standard za politički angažman, i za sadašnje a i buduće partije. Da to bude kao neko svetlo na kraju tunela izlaz iz političkog sumraka, otklon od medijske mašine i prašine.
 
 **– P8 –**  
-Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi političkog spektra) optimalno bi bila neka Sredina. Kao prvo **politički Centar** predstavlja i filozofski zlatnu sredinu, a drugo može skupiti najveću podršku zbog svoje širine. Ovo je taktika koju i sama vlast donekle primenjuje samo se to radi na pogrešan način (površno i populistički) i sa lošom namjerom (želja za moći). Ipak ništa ne sprečava da se ta strategija upotrebi i na dobar način za benefit svih stanovnika.
+Sto tiče samog političkog programa i načelno ideologije (pozicija na mapi političkog spektra) optimalno bi bila neka Sredina. Kao prvo **politički Centar** predstavlja i filozofski zlatnu sredinu, a drugo može skupiti najveću podršku zbog svoje širine. Ovo je taktika koju i sama vlast donekle primenjuje samo se to radi na pogrešan način (površno i populistički) i sa lošom namerom (želja za moći). Ipak ništa ne sprečava da se ta strategija upotrebi i na dobar način za benefit svih stanovnika.
 
 Pošto je Srbija i dalje prilično podeljeno društvo oko nekih bitnih stvari treba biti oprezan i imati takta za stavove i levice i desnice, umerene naravno. Suština ovog Pokreta je prvenstveno na Unutrašnjem planu, u Ino-politici ne treba previše odstupati od dosadašnjeg kursa da se ne pravi odmah nova komplikacija. U ovom trenutku za time nema potrebe niti je pravo vreme za naglu promenu strateških odluka, ostati u tradicionalnom okviru. A sa druge strane neophodno je definisati određenu osnovu platforme, jer mora postojati neki minimum zajedništva. Takođe ako bi uskoro nastala potreba da se donose odluke vezano za te teme bitno da postoje neke okvirne smernice. Srpski ‘zoon politikon’ je i dalje egzotično društevno biće.
 
@@ -133,4 +133,5 @@ ______
 
 Kratki URL link: [bit.ly/pgp_predlog](bit.ly/pgp_predlog)  
 Objavljeno: 2025-03-21 od strane: *longterm-thinker21* (analitičar za dugoročnu budućnost i 21. vek)  
-U potpisu (enkriptovano): yGOSIil713lExCP0OMy5nw==
+U potpisu (enkriptovano): 6aB/9jith7vFD31zAKdKIA==
+UPDATE (2026-10-31, 7 dana nakon POBEDE) potpis (obfus.): B....Dj.

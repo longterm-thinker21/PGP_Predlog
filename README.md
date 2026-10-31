@@ -133,5 +133,5 @@ ______
 
 Kratki URL link: [bit.ly/pgp_predlog](https://bit.ly/pgp_predlog)  
 Objavljeno: 2025-03-21 od strane: *longterm-thinker21* (analitičar za dugoročnu budućnost i 21. vek)  
-U potpisu (enkriptovano): 6aB/9jith7vFD31zAKdKIA==
+U potpisu (enkriptovano): 6aB/9jith7vFD31zAKdKIA==  
 UPDATE (2026-10-31, 7 dana nakon POBEDE) potpis (obfus.): B....Dj.
